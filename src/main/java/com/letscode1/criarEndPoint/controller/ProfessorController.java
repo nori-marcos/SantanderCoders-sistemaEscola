@@ -2,7 +2,6 @@ package com.letscode1.criarEndPoint.controller;
 
 import com.letscode1.criarEndPoint.model.Professor;
 import com.letscode1.criarEndPoint.request.ProfessorRequest;
-import com.letscode1.criarEndPoint.response.AlunoResponse;
 import com.letscode1.criarEndPoint.response.ProfessorResponse;
 import com.letscode1.criarEndPoint.service.ProfessorService;
 import org.springframework.beans.factory.annotation.Autowired;
